@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="custom_atribut">
+        <attr name="custom_strong" format="boolean"/>
+    </declare-styleable>
+</resources>
