@@ -1,6 +1,7 @@
 package com.example.weatheapp
 
 import com.example.weatheapp.Utils.Helper
+import com.example.weatheapp.interfaceAPI.WeatherAPI
 import com.example.weatheapp.viewmodel.VMWeatherApp
 import org.junit.Before
 import org.junit.Test
