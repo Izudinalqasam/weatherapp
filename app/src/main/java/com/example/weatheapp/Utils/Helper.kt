@@ -1,7 +1,5 @@
 package com.example.weatheapp.Utils
 
-import androidx.test.espresso.idling.CountingIdlingResource
-
 object Helper {
     const val ID = "1642907"
 
@@ -16,4 +14,5 @@ object Helper {
     }
 
     fun getIdlingResources() = mCustomCounting
+
 }
