@@ -1,11 +1,11 @@
 <resources>
     <string name="app_name">WeatheApp</string>
-    <string name="title_app">Jakarta Weather</string>
-    <string name="daerah">Daerah</string>
-    <string name="kordinat_lokasi_title">Kordinat lokasi</string>
+    <string name="title_app">Weather</string>
+    <string name="kordinat_lokasi_title">Coordinate Location</string>
     <string name="null_value">null</string>
-    <string name="weather_title">Weather</string>
+    <string name="weather_title">Current Weather</string>
     <string name="wind_speed_title">Wind Speed</string>
     <string name="temperatur_title">Temperatur</string>
-    <string name="current_weather_title">Current Weather</string>
+    <string name="current_weather_title">Weather</string>
+    <string name="forecast_for_5_days">Forecast for 5 days</string>
 </resources>

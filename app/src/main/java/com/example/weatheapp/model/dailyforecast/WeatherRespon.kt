@@ -1,4 +1,6 @@
-package com.example.weatheapp.model
+package com.example.weatheapp.model.dailyforecast
+
+import com.example.weatheapp.model.fivedaysforecast.WeatherFiveDays
 
 data class WeatherRespon(
     val base: String,
@@ -11,6 +13,6 @@ data class WeatherRespon(
     val name: String,
     val sys: Sys,
     val visibility: Int,
-    val weather: List<Weather>,
+    val weather: List<WeatherFiveDays>,
     val wind: Wind
 )
